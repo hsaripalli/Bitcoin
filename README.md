@@ -1,6 +1,6 @@
 # Bitcoin
 
-There are some interesting questions around cryptocurrencies and bitcoin that I aimed to study through this project: 
+Objectives of this project: 
 
 1) Does adding BTC to one's portfolio provide any diversification benefits?
 
