@@ -1,6 +1,6 @@
 # Bitcoin
 
-Objectives of this project: 
+Objectives:
 
 1) Does adding BTC to one's portfolio provide any diversification benefits?
 
